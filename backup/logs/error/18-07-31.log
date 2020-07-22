@@ -1,0 +1,26 @@
+<ERROR_BLOCK>
+excepInfo: Call to undefined function testdd()
+excepFile: /Applications/senseplay/iwebshop/controllers/simple.php
+excepLine: 110
+excepCode: 0
+excepTime: 2018-07-31 10:40:42
+#0 IWEB_PATH/lib/web/action/inline_action.php(24): Simple->joinCart()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(115): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(75): IController->run(joinCart)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined function testdd()
+excepFile: /Applications/senseplay/iwebshop/controllers/simple.php
+excepLine: 110
+excepCode: 0
+excepTime: 2018-07-31 10:40:57
+#0 IWEB_PATH/lib/web/action/inline_action.php(24): Simple->joinCart()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(115): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(75): IController->run(joinCart)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
